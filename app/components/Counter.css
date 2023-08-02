@@ -1,0 +1,19 @@
+.Counter {
+  margin-top: 2rem;
+}
+
+.Counter--btns {
+  display: flex;
+}
+
+.Counter--btns button:first-child {
+  margin-right: 1rem;
+}
+
+.Counter--btnhidden {
+  display: none;
+}
+
+.Counter--btnvisible {
+  display: block;
+}
